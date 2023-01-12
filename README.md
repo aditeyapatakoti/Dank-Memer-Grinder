@@ -57,9 +57,9 @@
 * Download and install [Python](https://www.python.org/downloads/).
 * Run the command `git clone https://github.com/BridgeSenseDev/Dank-Memer-Grinder.git` in a terminal.
 * Run the command `cd Dank-Memer-Grinder` in a terminal.
-* Run the command `pip install -r .\requirements.txt` in a terminal.
-* Rename `config.json.example` to `config.json`.
-* To start the program, run the command `python main.py` in a terminal.
+* Run the command `pip3 install -r .\requirements.txt` in a terminal.
+* Rename `config.json.example` to `config.json` you can run `mv config.json.example config.json` in a terminal if you don't know how to change it manually.
+* To start the program, run the command `python3 main.py` in a terminal.
 
 ### Getting Started
 
